@@ -1,0 +1,9 @@
+npm init -y
+npm i typescript -D
+npx tsc --init 
+npx tsc
+npx tsc -w
+
+ts파일 실행
+npx tsc (컴파일)
+node test.js(컴파일된 파일명)
